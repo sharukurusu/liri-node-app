@@ -22,7 +22,11 @@ To quickly and directly search for these use:
    * `do-what-it-says`
    To search for something in a random text file for some reason!
 
-Or just run the program and let it's inquirer powered menu guide you!
+Or just run the program and let its inquirer powered menu guide you!
+
+# Demo Video
+
+[Demo Video on Google Drive](https://drive.google.com/file/d/1WkODNXuaMufKCRMZCoSRgcK9VOADiHJU/view)
 
 # Dependencies
 
