@@ -30,8 +30,8 @@ Or just run the program and let its inquirer powered menu guide you!
 
 # Dependencies
 
-inquirer
-node-spotify-api
-moment
-request
-figlet
+* inquirer
+* node-spotify-api
+* moment
+* request
+* figlet
