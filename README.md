@@ -1,10 +1,11 @@
+<pre>
   _      _____ _____  _____
  | |    |_   _|  __ \|_   _|
  | |      | | | |__) | | |
  | |      | | |  _  /  | |
  | |____ _| |_| | \ \ _| |_
  |______|_____|_|  \_\_____|
-
+</pre>
 LIRI is a node app that helps you find information on your favorite songs, movies, or bands you'd like to see in concert! All from the convenience of your text based command line!
 
 To quickly and directly search for these use: 
